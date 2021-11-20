@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "QQQ",
+    "QOQ",
+    "QQQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "condenser:infused_quartz"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "condenser:condenser"
+  }
+}

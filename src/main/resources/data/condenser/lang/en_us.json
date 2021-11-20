@@ -1,0 +1,8 @@
+{
+  "item.condenser.condenser": "Condenser",
+  "item.condenser.infused_quartz": "Black Quartz",
+  "item.condenser.compressed.n": "Compressed x%1$s %2$s",
+  "item.condenser.pure_compression": "Pure Compression",
+  "item.condenser.pure_compression.n": "Pure Compression x%s",
+  "item.condenser.black_hole": "Black Hole"
+}
